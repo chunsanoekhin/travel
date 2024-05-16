@@ -14,7 +14,7 @@
         }
 
         .background-image {
-            background-image: url('img/t3.jpg');
+            background-image: url('../img/t3.jpg');
             /* Replace 'background.jpg' with your image path */
             background-size: cover;
             background-position: center;
